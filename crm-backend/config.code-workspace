@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../node_ass/config"
+		},
+		{
+			"path": "../node_ass/controllers"
+		},
+		{
+			"path": "../node_ass/middlewares"
+		},
+		{
+			"path": "../node_ass/models"
+		},
+		{
+			"path": "../node_ass/routes"
+		}
+	]
+}
