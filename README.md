@@ -1,6 +1,6 @@
 README.md:
 text
-# CRM Backend (Fastor Node.js Assignment)
+# CRM Backend ( Node.js)
 
 This is a Node.js Express backend for managing CRM leads and counselor authentication.
 
